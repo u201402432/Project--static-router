@@ -1,0 +1,13 @@
+﻿빌드 시작: 2016-06-03 오전 12:10:26
+     1>2 노드의 "C:\Users\Administrator\Desktop\[00]7_hw04\[00]7_hw04\[00]7_hw04_code\Router.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Release\Router.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\WpdPack\Include" /IC:\WpdPack\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Router.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\users\administrator\desktop\[00]7_hw04\[00]7_hw04\[00]7_hw04_code\stdafx.h(26): fatal error C1083: 포함 파일을 열 수 없습니다. 'pcap.h': No such file or directory
+     1>"C:\Users\Administrator\Desktop\[00]7_hw04\[00]7_hw04\[00]7_hw04_code\Router.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.27
